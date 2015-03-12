@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://zetaops.github.io/blog/2015/03/12/merhaba/</loc>
+    <lastmod>2015-03-12T11:03:02+02:00</lastmod>
+  </url>
+  <url>
     <loc>http://zetaops.github.io/blog/archives/</loc>
   </url>
   <url>
     <loc>http://zetaops.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://zetaops.github.io/blog/categories/general/</loc>
+  </url>
+  <url>
+    <loc>http://zetaops.github.io/blog/categories/code/</loc>
   </url>
 </urlset>
