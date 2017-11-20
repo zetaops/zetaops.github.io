@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+
+<time class='entry-date' datetime='{{page.date}}'>{{ page.date | date_to_string }}</time>
+
+  <header>
+
+      <h1 class="entry-title">{{page.title}}</h1>
+
+
+      <p class="meta">
+
+  </header>
+
+<div id="post">
+{{ content }}
+</div>
+
+
+{% if page.author == nil %}
+  {% assign author = 'ZetaOps' %}
+{% else %}
+  {% assign author = page.author %}
+{% endif %}
+
+<br>
+<br>
+<span class="byline author vcard">Posted by <span class="fn">{{ author }}</span></span>
