@@ -1,5 +1,4 @@
 ---
-layout: post
 title: When you shouldn't choose online.net?
 author: Gokhan Boranalp
 ---
@@ -59,12 +58,12 @@ I have collected all the support tickets during our quest to setup our system. Y
 I wish this blog post could be useful anyone intends to setup a similar system.
 
 
-{% include image.html max-width="800px" file="/images/2015-04-27/ticket1.png" %}
+{% include figure.html image="/images/2015-04-27/ticket1.png" %}
 
 Humm their network infrastructure have some IDS, IPS and firewall with strict rules working on their RPN. The server suddenly locked up. It means any protocol including chatty protocols having fast communication will be marked as hostile.
 
-{% include image.html max-width="800px" file="/images/2015-04-27/ticket2.png" %}
+{% include figure.html image="/images/2015-04-27/ticket2.png" %}
 
 misc questions
 
-{% include image.html max-width="800px" file="/images/2015-04-27/ticket3.png" %}
+{% include figure.html image="/images/2015-04-27/ticket3.png" %}

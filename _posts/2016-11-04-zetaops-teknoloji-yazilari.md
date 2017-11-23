@@ -1,0 +1,8 @@
+---
+title: ZetaOps Teknoloji Yazıları
+author: ZetaOps
+---
+
+İlgilendiğimiz konularda ortaya çıkan deneyimlerimizi ve dünyadaki gelişmeleri buradan paylaşacağız.
+
+İlk yazımız Açık Kaynak İş Modeli üzerine olacak. Israrla bekleyiniz :)

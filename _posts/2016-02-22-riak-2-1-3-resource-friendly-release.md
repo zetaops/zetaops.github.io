@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Riak 2.1.3 Resource Friendly Release
 author: Ali Riza Keles
 ---

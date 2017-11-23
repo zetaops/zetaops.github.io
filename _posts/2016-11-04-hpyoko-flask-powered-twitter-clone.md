@@ -1,5 +1,4 @@
 ---
-layout: post
 title: HPyoko and Flask powered twitter clone. Based on Flask's MiniTwit example
 author: Gokhan Boranalp
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Zato ile Servis Orkestrasyonu
 author: Ali Riza Keles
 ---
